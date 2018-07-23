@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarConcept</string>
+    <string name="email_address">Email Address</string>
+    <string name="your_password">Your Password</string>
+    <string name="register_here">Register Here</string>
+    <string name="check">Point ini tidak boleh kosong</string>
+</resources>
